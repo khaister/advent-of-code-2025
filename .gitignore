@@ -15,3 +15,7 @@ wheels/
 # IDE files
 .vscode/
 .idea/
+
+# Other files
+**/input.txt
+**/sample_input.txt
