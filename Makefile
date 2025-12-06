@@ -1,8 +1,14 @@
 format:
 	uv run ruff format .
 
-day-1-part-1-solver:
+d1-p1:
 	uv run python -m day_1.part_1_solver
 
-day-1-part-2-solver:
+d1-p2:
 	uv run python -m day_1.part_2_solver
+
+d2-p1:
+	uv run python -m day_2.part_1_solver
+
+d2-p2:
+	uv run python -m day_2.part_2_solver
