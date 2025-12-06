@@ -1,0 +1,3 @@
+# Day 3
+
+Website: <https://adventofcode.com/2025/day/3>
