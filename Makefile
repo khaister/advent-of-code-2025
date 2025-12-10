@@ -30,3 +30,9 @@ d51:
 
 d52:
 	uv run python -m day_5.part_2_solver
+
+d61:
+	uv run python -m day_6.part_1_solver
+
+d62:
+	uv run python -m day_6.part_2_solver
